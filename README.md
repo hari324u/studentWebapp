@@ -1,0 +1,1 @@
+Sample student spring boot application using h2 embedded database. Provides rest end-points to manage student data in the application.
